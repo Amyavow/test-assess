@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "repository": "git@github.com:chalu/devc-enter.git",
   "author": "Charles Odili <chaluwa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
 }
